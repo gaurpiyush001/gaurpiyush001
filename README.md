@@ -1,4 +1,4 @@
-<img align="Center" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px">
+<img align="Center" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="200px" width ="200px">
 
 <h2> Hey there! I'm Piyush.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
@@ -36,9 +36,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/gaurpiyush001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurpiyush001&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurpiyush001&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -46,8 +46,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/piyush-gaur-0749051b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:gaurpiyush001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/piyush-gaur-0749051b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Gaur-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:gaurpiyush001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gaurpiyush001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [gaurpiyush001](https://github.com/gaurpiyush001)
