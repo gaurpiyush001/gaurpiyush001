@@ -48,4 +48,4 @@
 <a href="mailto:gaurpiyush001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gaurpiyush001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001"/>
