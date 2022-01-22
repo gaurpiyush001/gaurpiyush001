@@ -1,6 +1,5 @@
 ### <h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Piyush!
   </br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurpiyush001)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -51,6 +50,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
   <br>
+ -&nbsp;
 
 
 ⭐️ From [gaurpiyush001](https://github.com/gaurpiyush001)
