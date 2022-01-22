@@ -10,9 +10,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
-  </br>
-  
 - 💻 &nbsp;
    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
    ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -50,5 +47,8 @@
 <a href="https://www.linkedin.com/in/piyush-gaur-0749051b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Gaur-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:gaurpiyush001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gaurpiyush001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
+
 
 ⭐️ From [gaurpiyush001](https://github.com/gaurpiyush001)
