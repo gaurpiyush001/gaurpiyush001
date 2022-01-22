@@ -1,6 +1,5 @@
 ### <h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Piyush!
   </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -10,6 +9,8 @@
 - 🌱 &nbsp; Learning more about Full stack Development, Data Structure & Algorithms
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
   
 - 💻 &nbsp;
    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -31,7 +32,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
