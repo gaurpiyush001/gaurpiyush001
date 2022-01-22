@@ -11,6 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
+  </br>
   
 - 💻 &nbsp;
    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
