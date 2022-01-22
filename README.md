@@ -1,4 +1,5 @@
-<h2> Hey there 👋! I'm Piyush.</h2>
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Piyush!
+  </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -11,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
   
 - 💻 &nbsp;
-  ![Cpp](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
