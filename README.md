@@ -48,9 +48,11 @@
 <a href="mailto:gaurpiyush001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gaurpiyush001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> </p>
-  <br>
- -&nbsp;
+<p> <img src="https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001 /> <br></p>
+
+  
+  
+  
 
 
 ⭐️ From [gaurpiyush001](https://github.com/gaurpiyush001)
