@@ -50,4 +50,4 @@
 
 ⭐️ From [gaurpiyush001](https://github.com/gaurpiyush001)
 
-[🔰](https://komarev.com/ghpvc/?username=gaurpiyush001" alt="gaurpiyush001)
+[🔰](https://komarev.com/ghpvc/?username=gaurpiyush001)
