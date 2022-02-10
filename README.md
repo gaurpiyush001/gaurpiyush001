@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science Student..
-- 💼 &nbsp; Currently Intern at Pinsout Innovation Private Limited.
+- 💼 &nbsp; Getting my hands dirty in Full Stack Web Development.
 - 🌱 &nbsp; Learning more about Full stack Development, Data Structure & Algorithms
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
