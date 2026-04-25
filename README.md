@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; SWE
+- 🎓 &nbsp; Exploring LLM's & Agentic Workflows
 - 💼 &nbsp; Expert in Full Stack Web Development.
-- 🌱 &nbsp; Learning more about Full stack Development, Data Structure & Algorithms
+- 🌱 &nbsp; Learning more about RAG's, Leveraging Context Engineering, Agentic Workflows, Full stack Development, Data Structure & Algorithms
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
   
